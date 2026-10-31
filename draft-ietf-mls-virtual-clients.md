@@ -1600,5 +1600,5 @@ The requested registration is:
 - Value: 0x667A (temporary)
 - Name: virtual_clients
 - Where: GI, LN, AD, ES
-- Recommended: N
+- Recommended: Y
 - Reference: RFC XXXX
